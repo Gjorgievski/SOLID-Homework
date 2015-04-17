@@ -1,0 +1,9 @@
+C:\Users\Code\Desktop\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\bin\Debug\ExampleDIP.dll
+C:\Users\Code\Desktop\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\bin\Debug\ExampleDIP.pdb
+C:\Users\Code\Desktop\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\obj\Debug\ExampleDIP.dll
+C:\Users\Code\Desktop\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\obj\Debug\ExampleDIP.pdb
+C:\Users\Ace\Desktop\svs-talent-2015-masterNew\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\bin\Debug\ExampleDIP.dll
+C:\Users\Ace\Desktop\svs-talent-2015-masterNew\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\bin\Debug\ExampleDIP.pdb
+C:\Users\Ace\Desktop\svs-talent-2015-masterNew\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\obj\Debug\ExampleDIP.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Desktop\svs-talent-2015-masterNew\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\obj\Debug\ExampleDIP.dll
+C:\Users\Ace\Desktop\svs-talent-2015-masterNew\svs-talent-2015-masterNew\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_DIP\ExampleDIP\ExampleDIP\obj\Debug\ExampleDIP.pdb

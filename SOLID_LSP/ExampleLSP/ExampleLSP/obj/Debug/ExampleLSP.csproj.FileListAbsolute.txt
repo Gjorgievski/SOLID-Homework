@@ -1,0 +1,5 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ExampleLSP\ExampleLSP\bin\Debug\ExampleLSP.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ExampleLSP\ExampleLSP\bin\Debug\ExampleLSP.pdb
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ExampleLSP\ExampleLSP\obj\Debug\ExampleLSP.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ExampleLSP\ExampleLSP\obj\Debug\ExampleLSP.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ExampleLSP\ExampleLSP\obj\Debug\ExampleLSP.pdb

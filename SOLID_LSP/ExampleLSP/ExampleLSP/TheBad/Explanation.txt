@@ -1,0 +1,22 @@
+﻿Problem with this implementation is for example if we have next situation
+
+
+Rectangle rectangle = getNewRectangle();
+
+
+with getNewRectangle method:
+
+
+private static Rectangle getNewRectangle()
+	{
+		// it can be an object returned by some factory ... 
+		return new Square();
+	}
+
+
+we expected Rectangle to be return with method but Square will be return and inconsistency result will be return
+
+________________________________________________________________________________________________________________
+
+
+With TheGood solution we do not have this problem because of base abstract class Shape
